@@ -1,0 +1,33 @@
+.nav {
+	background-color: lightblue;
+	height: 70px;
+}
+
+.hero {
+	background-color: lightblue;
+	height: 160px;
+	margin-top: 10px;
+}
+
+.main {
+	height: 250px;
+	margin-top: 10px;
+}
+
+.main1 {
+	background-color: grey;
+	height: 250px;
+}
+.main2 {
+	background-color: lightblue;
+	height: 250px;
+}
+.main3 {
+	background-color: lightgrey;
+	height: 250px;
+}
+.footer {
+	background-color: lightblue;
+	height: 120px;
+	margin-top: 10px;
+}
